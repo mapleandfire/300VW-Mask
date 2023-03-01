@@ -32,7 +32,7 @@ This dataset only contains the pixel-wise mask labels for pre-cropped facial ima
 
 ## Download Link
 
-The 300VW-Mask dataset can be downloaded [here](https://drive.google.com/file/d/10n-ujDDICGcWnaZOvoNB8an1sOUADRJr/view?usp=sharing) (Google Drive)
+The 300VW-Mask dataset can be downloaded [here](https://drive.google.com/file/d/1ZbCDFs-rYKRIOPpnLPV1eZ-CTwRTF4In/view?usp=sharing) (Google Drive)
 or [here](https://www.dropbox.com/s/gvwjg6dnqh13npf/300VW-Mask-Dataset.zip?dl=0) (Dropbox).
 
 ## File Structure
